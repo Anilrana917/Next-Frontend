@@ -356,6 +356,7 @@ export default function Home() {
         .footer {
           background-color: rgb(6 15 43);
         }
+          
         @media (max-width: 768px) {
           .desktop-banner {
             display: none;
